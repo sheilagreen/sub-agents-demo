@@ -1,5 +1,3 @@
-# sub-agents-demo
-
 # Sub-Agents Demo
 
 Open this folder in VS Code and follow the instructions in CHEAT_SHEET.md.
