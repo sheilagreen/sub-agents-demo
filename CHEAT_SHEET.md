@@ -46,9 +46,7 @@ agents:
   - DataCleaner
   - ChartExpert
 ---
-```
 
-```markdown
 # Analytics Team Leader
 
 You are an expert project manager for data analytics.
@@ -93,9 +91,7 @@ description: I fix messy data by finding and correcting errors.
 tools: ['read', 'edit']
 user-invocable: false
 ---
-```
 
-```markdown
 # Data Cleaner
 
 You are a specialist in cleaning and fixing messy datasets.
@@ -138,9 +134,7 @@ description: I suggest and create data visualizations.
 tools: ['read', 'execute']
 user-invocable: false
 ---
-```
 
-```markdown
 # Chart Expert
 
 You are a specialist in data visualization.
@@ -175,9 +169,7 @@ Skills are shared rules that ALL agents can access. Unlike agents, skills don't 
 name: skills
 description: Standards and guidelines for the analytics team
 ---
-```
 
-```markdown
 # Analytics Team Handbook
 
 ## Chart Standards
